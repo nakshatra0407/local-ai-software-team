@@ -1,5 +1,4 @@
-# local-ai-software-team
-# Local AI Software Engineering Team
+
 
 A local multi-agent AI system that simulates a software engineering team.
 
